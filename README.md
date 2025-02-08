@@ -3,7 +3,7 @@
 * Platform game made on Godot v4.3 using 100% GDScript (Renderer: Compatibility)
 * Followed Brackeys Yt Tutorial: - [Watch this YouTube video](https://www.youtube.com/watch?v=LOhfqjmasi0&t=820s)
 
-## 🌱 Assets:
+## 🌱 Assets 🌱:
 On Brackey's YT video tutorial, you can find them on the description box.
 
 ### 🌱 Note:
